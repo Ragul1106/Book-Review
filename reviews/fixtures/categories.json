@@ -1,0 +1,79 @@
+[
+  {
+    "model": "reviews.category",
+    "pk": 1,
+    "fields": {
+      "name": "Classic Literature"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 2,
+    "fields": {
+      "name": "Science Fiction"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 3,
+    "fields": {
+      "name": "Romance"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 4,
+    "fields": {
+      "name": "Fantasy"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 5,
+    "fields": {
+      "name": "Mystery"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 6,
+    "fields": {
+      "name": "Fiction"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 7,
+    "fields": {
+      "name": "Coming-of-Age"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 8,
+    "fields": {
+      "name": "Adventure"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 9,
+    "fields": {
+      "name": "Thriller"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 10,
+    "fields": {
+      "name": "Epic"
+    }
+  },
+  {
+    "model": "reviews.category",
+    "pk": 11,
+    "fields": {
+      "name": "Philosophical"
+    }
+  }
+]

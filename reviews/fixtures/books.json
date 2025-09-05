@@ -1,0 +1,134 @@
+[
+  {
+    "model": "reviews.book",
+    "pk": 1,
+    "fields": {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A gripping, heart-wrenching novel about a young girl growing up in the deep south and her father, a lawyer who defends a black man unjustly accused of a terrible crime.",
+      "cover_image": "book_covers/to_kill_a_mockingbird.jpg",
+      "categories": [1, 6]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 2,
+    "fields": {
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian social science fiction novel that examines the consequences of totalitarianism, mass surveillance, and repressive regimentation of all persons and behaviors within society.",
+      "cover_image": "book_covers/1984.jpg",
+      "categories": [2, 6]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 3,
+    "fields": {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic novel of manners that depicts the emotional development of protagonist Elizabeth Bennet, who learns the error of making hasty judgments.",
+      "cover_image": "book_covers/pride_and_prejudice.jpg",
+      "categories": [3, 6]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 4,
+    "fields": {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A story of wealth, love, and the American Dream in the Jazz Age, following the life of millionaire Jay Gatsby and his obsession with the beautiful Daisy Buchanan.",
+      "cover_image": "book_covers/the_great_gatsby.jpg",
+      "categories": [6, 7]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 5,
+    "fields": {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "description": "The first novel in the Harry Potter series, following Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday.",
+      "cover_image": "book_covers/harry_potter_1.jpg",
+      "categories": [4, 8]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 6,
+    "fields": {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy novel about the adventures of hobbit Bilbo Baggins, who is hired as a burglar by a group of dwarves on a quest to reclaim their mountain home from a dragon.",
+      "cover_image": "book_covers/the_hobbit.jpg",
+      "categories": [4, 8]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 7,
+    "fields": {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris.",
+      "cover_image": "book_covers/da_vinci_code.jpg",
+      "categories": [5, 9]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 8,
+    "fields": {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "description": "A science fiction novel set in the distant future amidst a feudal interstellar society, focusing on the young Paul Atreides.",
+      "cover_image": "book_covers/dune.jpg",
+      "categories": [2, 10]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 9,
+    "fields": {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A novel about Holden Caulfield's experiences in New York City after being expelled from prep school, exploring themes of teenage angst, alienation, and identity.",
+      "cover_image": "book_covers/catcher_in_the_rye.jpg",
+      "categories": [6, 7]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 10,
+    "fields": {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "description": "An epic high fantasy novel about the quest to destroy the One Ring and defeat the Dark Lord Sauron, set in the fictional world of Middle-earth.",
+      "cover_image": "book_covers/lord_of_the_rings.jpg",
+      "categories": [4, 8]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 11,
+    "fields": {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "description": "A dystopian novel set in a futuristic World State, inhabited by genetically modified citizens and an intelligence-based social hierarchy.",
+      "cover_image": "book_covers/brave_new_world.jpg",
+      "categories": [2, 6]
+    }
+  },
+  {
+    "model": "reviews.book",
+    "pk": 12,
+    "fields": {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel that follows a young Andalusian shepherd named Santiago on his journey to Egypt after having a recurring dream of finding treasure there.",
+      "cover_image": "book_covers/the_alchemist.jpg",
+      "categories": [6, 11]
+    }
+  }
+]
